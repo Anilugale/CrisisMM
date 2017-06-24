@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "308332974331",
+    "firebase_url": "https://emergencyx-b355e.firebaseio.com",
+    "project_id": "emergencyx-b355e",
+    "storage_bucket": "emergencyx-b355e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308332974331:android:3a072cd9431ff229",
+        "android_client_info": {
+          "package_name": "crisis.com.crisism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308332974331-rb1nntunscnfm01ln01m4amq4eijlucl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "crisis.com.crisism",
+            "certificate_hash": "561a0d305dc4a18e7fd92b18fad9a340ec111371"
+          }
+        },
+        {
+          "client_id": "308332974331-rq07tfiq230uftolc7d15l1bm1f82f23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kfJMCQmBrtof-KDFPoGFSn4x8L92kRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308332974331-rq07tfiq230uftolc7d15l1bm1f82f23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
